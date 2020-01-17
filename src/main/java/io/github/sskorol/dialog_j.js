@@ -1,7 +1,6 @@
-alert("check");
 jQuery(document).ready(function () {
   window.showalert = function (){
-	  alert("MESSage");
+	  alert("MESSage2");
     }
   }
   );
